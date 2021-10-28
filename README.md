@@ -21,7 +21,7 @@ else:
 ```
 ### Задание №4
 ```
-a, b = input(), input()
+a, b = int(input()), int(input())
 print(min(a, b))
 ```
 
